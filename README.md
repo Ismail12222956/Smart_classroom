@@ -6,7 +6,7 @@ This project implements a **Vision-Based Student Engagement Classification Syste
 
 ## 🚀 Features
 
-* Preprocesses image datasets by flattening and splitting into train/test sets
+* Preprocesses image datasets by flattening and splitting data into train/test sets
 * Applies **data augmentation** for robust training
 * Builds and trains a **CNN model** for binary classification
 * Provides visualization of sample images and model performance
